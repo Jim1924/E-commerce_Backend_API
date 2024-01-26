@@ -1,6 +1,5 @@
 <b>Step 1:</b>
-cd .\e-commerce-api\
-<br>
+cd .\e-commerce-api\\
 <b>Step 2:</b>
 npm i
 <br>
