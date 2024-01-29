@@ -24,6 +24,6 @@ Include the following environment variables:
 <br>
 JWT_SECRET= Any secret key of your choice, it may be any string
 <br>
-PORT= The port you want oyur project to run on
+PORT= The port you want your project to run on
 <br>
 MONGODB_URL= Your mongodb server url
