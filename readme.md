@@ -7,14 +7,14 @@ npm i
 <b>Step 3:</b>
 (Type this command in a seperate terminal)
 mongod
-<ul>(Note: You need mongodb installed)</ul>
+<u>(Note: You need mongodb installed)</u>
 <br>
 <b>Step 4:</b>
 npm run dev
 (In the previous terminal)
 <br>
 <br>
-<b><ul>NOTE:</ul></b>
+<b><u>NOTE:</u></b>
 <br>
 Create a config folder in root directory of teh project
 <br>
