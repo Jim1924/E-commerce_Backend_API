@@ -14,7 +14,7 @@ npm run dev
 (In the previous terminal)
 <br>
 <br>
-<b><ul>NOTE:</ul>b></ul></b>
+<b><ul>NOTE:</ul></b>
 Create a config folder in root directory of teh project
 Create a dev.env file in the config folder
 Include the following environment variables:
